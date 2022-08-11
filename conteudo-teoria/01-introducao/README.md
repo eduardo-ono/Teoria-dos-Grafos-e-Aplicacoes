@@ -9,7 +9,7 @@
 
 * ### [Conceituação](./conceituacao.ipynb)
 
-* ### Problema das sete pontes de Königsberg
+* ### [Problema das sete pontes de Königsberg](./problema-das-sete-pontes-de-konigsberg.ipynb)
 
 <br>
 
