@@ -25,4 +25,12 @@ Prof. Eduardo Ono
 
 * https://www.ime.usp.br/~yw/publications/books/TeoriaDosGrafos.pdf
 
+* http://www.mat.uc.pt/~picado/ediscretas/2012/apontamentos/cap2.pdf
+
+<br>
+
+* https://katex.org/docs/support_table.html
+
+* https://katex.org/docs/supported.html
+
 <br>

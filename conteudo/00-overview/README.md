@@ -35,6 +35,8 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/MC0u4f334mI/default.jpg)](https://www.youtube.com/watch?v=MC0u4f334mI) | <sup>[UNIVESP]</sup><br>[__Estrutura de Dados__](https://www.youtube.com/watch?v=MC0u4f334mI)<br><sub>(00:00, YouTube, Mes/Ano)</sub>
+| [![img](https://img.youtube.com/vi/sWsXBY19o8I/default.jpg)](https://www.youtube.com/watch?v=sWsXBY19o8I) | <sup>[Academic Lesson]</sup><br>[__Graph theory full course for Beginners__](https://www.youtube.com/watch?v=sWsXBY19o8I)<br><sub>(1:17:17, YouTube, Jun/2020)</sub>
+| [![img](https://img.youtube.com/vi/tWVWeAqZ0WU/default.jpg)](https://www.youtube.com/watch?v=tWVWeAqZ0WU) | <sup>[freeCodeCamp.org]</sup><br>[__Graph Algorithms for Technical Interviews - Full Course__](https://www.youtube.com/watch?v=tWVWeAqZ0WU)<br><sub>(2:12:18, YouTube, Ago/2021)</sub>
 
 ## Cursos "Completos" (Teoria)
 
