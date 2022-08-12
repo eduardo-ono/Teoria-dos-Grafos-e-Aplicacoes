@@ -33,8 +33,8 @@ __Prof. Eduardo Ono__
 | 13 |   | Árvores e árvore geradora mínima
 | 14 |   | Fluxos em Redes
 
-[Problema das sete pontes de Königsberg]: ./conteudo-teoria/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
-[Conceitos básicos e terminologias]: ./conteudo-teoria/03-conceitos-basicos/README.md
+[Problema das sete pontes de Königsberg]: ./conteudo-teorico/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
+[Conceitos básicos e terminologias]: ./conteudo-teorico/03-conceitos-basicos/README.md
 
 &nbsp;
 
@@ -50,7 +50,7 @@ __Prof. Eduardo Ono__
 * https://graphclasses.org
 * https://colab.research.google.com
 * NetworkX: https://walkenho.github.io/graph-theory-and-networkX-part1/
-* Latex: https://www.caam.rice.edu/~heinken/latex/symbols.pdf
+* LaTeX: https://www.caam.rice.edu/~heinken/latex/symbols.pdf
 
 &nbsp;
 
