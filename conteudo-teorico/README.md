@@ -9,9 +9,8 @@
 
 * ### Introdução
 
-    * [Conceitos Básicos de Grafos](./grafos.ipynb)
-        * Terminologias
-    * Grafos Orientados ou Dirigidos (Digrafos)
+    * [Conceituação](./01-introducao/conceituacao.ipynb)
+    * Aplicações
 
 * ### Fundamentos
 
@@ -23,7 +22,7 @@
         * Grafo
     * Terminologias
         * Grafos Simples, Rotulados, Subgrafos
-        * Grafos Orientados
+        * Grafos Orientados (ou Digrafos)
 
 * ### Representações
 
