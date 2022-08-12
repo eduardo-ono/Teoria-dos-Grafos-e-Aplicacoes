@@ -4,23 +4,26 @@
   <small>Teoria dos Grafos e Aplicações</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;15/07/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;12/08/2022</small>
 </td>
 </tr>
 </table>
 
-<br>
+&nbsp;
 
-<h1 align="center">Ambiente de Desenvolvimento</h1>
-<h3 align="center">Prof. Eduardo Ono</h3>
+# Ambiente de Desenvolvimento
 
-<br>
+__Prof. Eduardo Ono__
+
+&nbsp;
 
 ## Opções de Ambientes
 
 ### Ambiendetes de Desenvolvimento em Python
 
 * [Python](./python.md)
+
+* [Jupyter Notebook](./jupyter-notebook.md)
 
 * [Anaconda](./anaconda.md)
 

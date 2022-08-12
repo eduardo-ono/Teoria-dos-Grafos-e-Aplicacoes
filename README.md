@@ -18,7 +18,7 @@ __Prof. Eduardo Ono__
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
-| 01 |   | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; Problema das pontes de Königsberg; Fundamentos de Lógica
+| 01 | 11/08  | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; [Problema das sete pontes de Königsberg]; Fundamentos de Lógica
 | 02 |   | Ambiente de desenvolvimento; Fundamentos da programação em Python
 | 03 |   | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências
 | 04 |   | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS)
@@ -33,6 +33,7 @@ __Prof. Eduardo Ono__
 | 13 |   | Árvores e árvore geradora mínima
 | 14 |   | Fluxos em Redes
 
+[Problema das sete pontes de Königsberg]: ./conteudo-teoria/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
 [Conceitos básicos e terminologias]: ./conteudo-teoria/03-conceitos-basicos/README.md
 
 &nbsp;
