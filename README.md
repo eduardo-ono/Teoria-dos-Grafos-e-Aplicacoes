@@ -89,11 +89,8 @@ __Prof. Eduardo Ono__
 | [![img](https://img.youtube.com/vi/LFKZLXVO-Dg/default.jpg)](https://www.youtube.com/watch?v=LFKZLXVO-Dg) | <sup>[Reducible]</sup><br>[__Introduction to Graph Theory: A Computer Science Perspective__](https://www.youtube.com/watch?v=LFKZLXVO-Dg)<br><sub>(16:25, YouTube, Jun/2020)</sub>
 | [![img](https://img.youtube.com/vi/9WwYO1Jtr7Y/default.jpg)](https://www.youtube.com/watch?v=9WwYO1Jtr7Y) | <sup>[Ciência Todo Dia]</sup><br>[__O Problema de 1 MILHÃO de DÓLARES__](https://www.youtube.com/watch?v=9WwYO1Jtr7Y)<br><sub>(13:20, YouTube, Set/2021)</sub>
 | [![img](https://img.youtube.com/vi/JGQe4kiPnrU/default.jpg)](https://www.youtube.com/watch?v=JGQe4kiPnrU) | <sup>[Reducible]</sup><br>[__PageRank: A Trillion Dollar Algorithm__](https://www.youtube.com/watch?v=JGQe4kiPnrU)<br><sub>(25:25, YouTube, Mai/2022)</sub>
-| [![img](https://img.youtube.com/vi/Y6M14rLIhV0/default.jpg)](https://www.youtube.com/watch?v=Y6M14rLIhV0) | <sup>[RussianPlus]</sup><br>[__Kaliningrad Russia 4K. Russian People and German Heritage__](https://www.youtube.com/watch?v=Y6M14rLIhV0)<br><sub>(30:07, YouTube, Out/2020)</sub>
-| [![img](https://img.youtube.com/vi/m_IT0RNZRw8/default.jpg)](https://www.youtube.com/watch?v=m_IT0RNZRw8) | <sup>[math2me]</sup><br>[__EL PROBLEMA DE LOS PUENTES DE KONIGSBERG__](https://www.youtube.com/watch?v=m_IT0RNZRw8)<br><sub>(5:49, YouTube, Set/2019)</sub>
-| [![img](https://img.youtube.com/vi/W18FDEA1jRQ/default.jpg)](https://www.youtube.com/watch?v=W18FDEA1jRQ) | <sup>[Numberphile]</sup><br>[__The Seven Bridges of Königsberg - Numberphile__](https://www.youtube.com/watch?v=W18FDEA1jRQ)<br><sub>(14:41, YouTube, Nov/2016)</sub>
 
-<br>
+&nbsp;
 
 ## Filmes e Documentários Recomendados
 
