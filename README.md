@@ -19,8 +19,8 @@ __Prof. Eduardo Ono__
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
 | 01 | 11/08  | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; [Problema das sete pontes de Königsberg]; Fundamentos de Lógica
-| 02 |   | Ambiente de desenvolvimento; Fundamentos da programação em Python
-| 03 |   | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências
+| 02 | 18/08 | Ambiente de desenvolvimento; Fundamentos da programação em Python
+| 03 | 25/08 | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências
 | 04 |   | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS)
 | 05 |   | Conexidade, conectividade e problemas de caminhos
 | 06 |   | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall
@@ -48,8 +48,13 @@ __Prof. Eduardo Ono__
 ## Recursos
 
 * https://graphclasses.org
+
 * https://colab.research.google.com
+
+* https://networkx.org/documentation/stable/reference/index.html
+
 * NetworkX: https://walkenho.github.io/graph-theory-and-networkX-part1/
+
 * LaTeX: https://www.caam.rice.edu/~heinken/latex/symbols.pdf
 
 &nbsp;

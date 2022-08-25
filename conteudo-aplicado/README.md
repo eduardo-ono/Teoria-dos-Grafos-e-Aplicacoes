@@ -4,19 +4,16 @@
     <small>Teoria dos Grafos</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;14/04/2022</small>
+    <small>Atualizado&nbsp;em:&nbsp;25/08/2022</small>
 </td>
 </tr>
 </table>
 
 <br>
 
-<h1 align="center">
-Conteúdo
-</h1>
-<h4 align="center">
-Prof. Eduardo Ono
-</h4>
+<h1 align="center">Conteúdo Aplicado</h1>
+
+<h4 align="center">Prof. Eduardo Ono</h4>
 
 <br>
 
@@ -32,7 +29,11 @@ Prof. Eduardo Ono
 
 ### Representações Computacionais
 
-* Matriz de Adjacência; Lista de Adjacência
+* Matriz de Adjacência
+
+* Matriz de Incidência
+
+* Lista de Adjacência
 
 ### Busca e Caminhamento
 
@@ -65,6 +66,8 @@ Prof. Eduardo Ono
 <br>
 
 ## Recursos
+
+* https://networkx.org/documentation/stable/reference/index.html
 
 * https://caam37830.github.io/book/05_graphs/networkx.html
 
