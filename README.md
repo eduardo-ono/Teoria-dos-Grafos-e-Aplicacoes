@@ -19,9 +19,9 @@ __Prof. Eduardo Ono__
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
 | 01 | 11/08  | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; [Problema das sete pontes de Königsberg]; Fundamentos de Lógica
-| 02 | 18/08 | Ambiente de desenvolvimento; Fundamentos da programação em Python
+| 02 | 18/08 | Ambiente de desenvolvimento; [Fundamentos da programação em Python]
 | 03 | 25/08 | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências
-| 04 |   | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS)
+| 04 | 01/09 | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS)
 | 05 |   | Conexidade, conectividade e problemas de caminhos
 | 06 |   | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall
 | 07 |   | Grafos e circuitos Eulerianos; Algoritmo de Fleury
@@ -34,6 +34,7 @@ __Prof. Eduardo Ono__
 | 14 |   | Fluxos em Redes
 
 [Problema das sete pontes de Königsberg]: ./conteudo-teorico/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
+[Fundamentos da programação em Python]: https://github.com/eduardo-ono/Programacao-em-Python
 [Conceitos básicos e terminologias]: ./conteudo-teorico/03-conceitos-basicos/README.md
 
 &nbsp;
@@ -78,7 +79,7 @@ __Prof. Eduardo Ono__
 | <img src="./referencias/capas/DOWNEY-2e_2016.jpg" alt="img" width="100px"> | <sup id="DOWNEY-2e_2016">[DOWNEY-2e_2016]</sup><br>DOWNEY, Karin R. <strong>Pense em Python: Pense Como um Cientista da Computação</strong>. 1. ed. Boca Raton: Taylor & Francis, 2017[.](#)
 | <img src="./referencias/capas/KURGALIN-2e_2020.jpg" alt="img" width="100px"> | <sup id="KURGALIN-2e_2020">[KURGALIN-2e_2020]</sup><br>KURGALIN, Sergei; BORZUNOV, Sergei. __The Discrete Math Workbook__. 2. ed., 2020.
 | <img src="./referencias/capas/GOLDBARG_2012.jpg" alt="img" width="100px"> | <sup id="GOLDBARG_2012">[GOLDBARG_2012]</sup><br>GOLDBARG, Marco Cesar; GOLDBARG, Elizabeth. [__Grafos: conceitos, algoritmos e aplicações__. 1. ed.](https://livrariapublica.com.br/grafos-elizabeth-goldbarg-2/) Rio de Janeiro: Elsevier, 2012[.](#)
-| <img src="./referencias/capas/" alt="img" width="100px"> | <sup id="GROSS_2019">[GROSS_2019]</sup><br>GROSS, . <strong>Graph Theory and Its Applications</strong>.  1. ed. Cidade: Editora, Ano[.](#)<br>
+| <img src="./referencias/capas/GROSS-3e_2019.jpg" alt="img" width="100px"> | <sup id="GROSS_2019">[GROSS_2019]</sup><br>GROSS, Jonathan L.; YELLEN, Jay; ANDERSON, Mark. __Graph Theory and Its Applications__,  1. ed. Cidade: Editora, Ano[.](#)<br>
 | <img src="./referencias/capas/SAOUB_2017.jpg" alt="img" width="100px"> | <sup id="SAOUB_2017">[SAOUB_2017]</sup><br>SAOUB, Karin R. <strong>A Tour Through Graph Theory</strong>. 1. ed. Boca Raton: Taylor & Francis, 2017[.](#)
 | <img src="./referencias/capas/" alt="img" width="100px"> | <sup id="_2019">[_2019]</sup><br>. <strong>Problemas Clássicos da Computação com Python</strong>. 1. ed. , 2019[.](#)
 | <img src="./referencias/capas/GOODRICH_2013.jpg" alt="img" width="100px"> | <sup id="GOODRICH_2013">[GOODRICH_2013]</sup><br>Data Structures and Algorithms in Python. 1. ed., 2013[.](http://xpzhang.me/teach/DS19_Fall/book.pdf)
