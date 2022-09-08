@@ -22,9 +22,10 @@ __Prof. Eduardo Ono__
 | 02 | 18/08 | Ambiente de desenvolvimento; [Fundamentos da programação em Python]
 | 03 | 25/08 | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências
 | 04 | 01/09 | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS)
-| 05 |   | Conexidade, conectividade e problemas de caminhos
+| 05 | 08/09  | Algoritmos de busca: Busca em profundidade (DFS); Conexidade, conectividade e problemas de caminhos
 | 06 |   | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall
 | 07 |   | Grafos e circuitos Eulerianos; Algoritmo de Fleury
+|    |   | __1ª Avaliação__
 | 08 |   | Problema do Carteiro Chinês
 | 09 |   | Grafos e circuitos Hamiltonianos
 | 10 |   | Problema do Caixeiro Viajante
@@ -49,6 +50,8 @@ __Prof. Eduardo Ono__
 ## Recursos
 
 * https://graphclasses.org
+
+* https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html
 
 * https://colab.research.google.com
 
@@ -102,6 +105,8 @@ __Prof. Eduardo Ono__
 
 | Thumb | Descrição |
 | :-: | --- |
+| [![img](https://img.youtube.com/vi/8WwLPep9xNg/default.jpg)](https://www.youtube.com/watch?v=oXGm9Vlfx4w) | [__The Man Who Knew Infinity__](https://www.youtube.com/watch?v=8WwLPep9xNg) (2015) / O Homem que Viu o Infinito<br><sub>(1:48:35, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/-ViPmcdlfbQ/default.jpg)](https://www.youtube.com/watch?v=-ViPmcdlfbQ) | [__Good Will Hunting__](https://www.youtube.com/watch?v=-ViPmcdlfbQ) (1997) / Gênio Indomável<br><sub>(4:16, YouTube, Abr/2020)</sub>
 | [![img](https://img.youtube.com/vi/ttMQECKQ3DQ/default.jpg)](https://www.youtube.com/watch?v=ttMQECKQ3DQ) | <sup>[Andrew Rozario]</sup><br>[__The Right Match: A Short Documentary__](https://www.youtube.com/watch?v=ttMQECKQ3DQ)<br><sub>(21:42, YouTube, Nov/2013)</sub>
 
 <br>
