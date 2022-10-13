@@ -12,20 +12,20 @@ __Prof. Eduardo Ono__
 
 * Introdução à Teoria dos Grafos, aplicações e implementação computacional.
 
-<br>
+&nbsp;
 
 ## [Conteúdo Programático](./conteudo-teoria/README.md)
 
 | Aula | Data | Descrição |
 | :-:  | :-:  | --- |
-| 01 | 11/08  | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; [Problema das sete pontes de Königsberg]; Fundamentos de Lógica.
+| 01 | 11/08 | Apresentação da disciplina; Introdução à Teoria dos Grafos; Aplicações; História da Teoria dos Grafos; [Problema das sete pontes de Königsberg]; Fundamentos de Lógica.
 | 02 | 18/08 | Ambiente de desenvolvimento; [Fundamentos da programação em Python].
 | 03 | 25/08 | [Conceitos básicos e terminologias]: grafo, subgrafos, grafos rotulados e valorados; Representação de grafos: Diagrama gráfico, matriz de adjacências, matriz de incidência e lista de adjacências.
 | 04 | 01/09 | Percursos em grafos; Algoritmos de busca: Busca em largura (BFS) e busca em profundidade (DFS).
-| 05 | 08/09  | Algoritmos de busca: Busca em profundidade (DFS); Conexidade, conectividade e problemas de caminhos.
+| 05 | 08/09 | Algoritmos de busca: Busca em profundidade (DFS); Conexidade, conectividade e problemas de caminhos.
 | 06 | 14/09 | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall.
-| 07 |   | Grafos e circuitos Eulerianos; Algoritmo de Fleury.
-|    |   | __1ª Avaliação__
+|    | 29/09 | __1ª Avaliação__
+| 07 | 13/10 | Caminho (passeio, percurso), ciclo, circuito; [Grafos e circuitos Eulerianos]; Algoritmo de Fleury.
 | 08 |   | Problema do Carteiro Chinês
 | 09 |   | Grafos e circuitos Hamiltonianos
 | 10 |   | Problema do Caixeiro Viajante
@@ -37,6 +37,7 @@ __Prof. Eduardo Ono__
 [Problema das sete pontes de Königsberg]: ./conteudo-teorico/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
 [Fundamentos da programação em Python]: https://github.com/eduardo-ono/Programacao-em-Python
 [Conceitos básicos e terminologias]: ./conteudo-teorico/03-conceitos-basicos/README.md
+[Grafos e circuitos Eulerianos]: ./conteudo-teorico/07-grafos-eulerianos/README.md
 
 &nbsp;
 
@@ -73,7 +74,7 @@ __Prof. Eduardo Ono__
 | <img src="./referencias/capas/BOAVENTURA-NETTO_2017.jpg" alt="img" width="100px"> | <sup id="BOAVENTURA-NETTO_2017">[BOAVENTURA-NETTO_2017]</sup><br>BOAVENTURA NETTO, Paulo Oswaldo; JURKIEWICZ, Samuel. <strong>Grafos: Introdução e Prática</strong>. 2. ed. São Paulo: Blucher, 2017[.](#)<br><sub>Online: https://plataforma.bvirtual.com.br/Acervo/Publicacao/177879</sub>
 | <img src="./referencias/capas/SIMOES-PEREIRA_2013.jpg" alt="img" width="100px"> | <sup id="SIMOES-PEREIRA_2013">[SIMOES-PEREIRA_2013]</sup><br>SIMÕES-PEREIRA, J. M. S. <strong>Grafos e Redes: Teoria e Algoritmos Básicos</strong>. 1. ed. Rio de Janeiro: Interciência, 2013[.](#)<br><sub>Online: https://plataforma.bvirtual.com.br/Acervo/Publicacao/42049</sub>
 
-<br>
+&nbsp;
 
 ## Bibliografia Complementar
 
@@ -89,7 +90,7 @@ __Prof. Eduardo Ono__
 | <img src="./referencias/capas/DROZDEK-4e_2012.jpg" alt="img" width="100px"> | <sup id="DROZDEK-4e_2012">[DROZDEK-4e_2012]</sup><br> __Data Structures and Algorithms in C++__. 4. ed. Cengage Learning, 2012[.](#)
 | <img src="./referencias/capas/DIESTEL-3e_2005.jpg" alt="img" width="100px"> | <sup id="DIESTEL-3e_2005">[DIESTEL-3e_2005]</sup><br> __Graph Theory__. 3. ed., 2005[.](https://sites.math.washington.edu/~billey/classes/562.winter.2018/articles/GraphTheory.pdf)
 
-<br>
+&nbsp;
 
 ## Vídeos Recomendados
 
@@ -108,5 +109,6 @@ __Prof. Eduardo Ono__
 | [![img](https://img.youtube.com/vi/8WwLPep9xNg/default.jpg)](https://www.youtube.com/watch?v=oXGm9Vlfx4w) | [__The Man Who Knew Infinity__](https://www.youtube.com/watch?v=8WwLPep9xNg) (2015) / O Homem que Viu o Infinito<br><sub>(1:48:35, YouTube, Jan/2020)</sub>
 | [![img](https://img.youtube.com/vi/-ViPmcdlfbQ/default.jpg)](https://www.youtube.com/watch?v=-ViPmcdlfbQ) | [__Good Will Hunting__](https://www.youtube.com/watch?v=-ViPmcdlfbQ) (1997) / Gênio Indomável<br><sub>(4:16, YouTube, Abr/2020)</sub>
 | [![img](https://img.youtube.com/vi/ttMQECKQ3DQ/default.jpg)](https://www.youtube.com/watch?v=ttMQECKQ3DQ) | <sup>[Andrew Rozario]</sup><br>[__The Right Match: A Short Documentary__](https://www.youtube.com/watch?v=ttMQECKQ3DQ)<br><sub>(21:42, YouTube, Nov/2013)</sub>
+| [![img](https://img.youtube.com/vi/YZk4n6oHLA0/default.jpg)](https://www.youtube.com/watch?v=YZk4n6oHLA0) | <sup>[Cederj : Tec em Sistemas de Computação : UFF]</sup><br>[__Matemática e computação: uma união estável__](https://www.youtube.com/watch?v=YZk4n6oHLA0)<br><sub>(22:39, YouTube, Abr/2018)</sub> |
 
 &nbsp;
