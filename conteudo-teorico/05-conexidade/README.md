@@ -10,10 +10,12 @@
 
 ## Tópicos
 
-* ### Percursos (passeio)
+* ### [Conceitos](./conceitos-conexidade.ipynb)
 
-* ### Caminhos
+    * Percursos (passeio)
+    * Caminhos
+    * Ciclos (circuitos)
 
-* ### Ciclos (circuitos)
+* ### [Conexidade](./conexidade.ipynb)
 
 &nbsp;
