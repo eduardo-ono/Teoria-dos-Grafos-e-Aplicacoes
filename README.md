@@ -31,7 +31,7 @@ __Prof. Eduardo Ono__
 | 05 | 08/09 | Algoritmos de busca: Busca em profundidade (DFS); Conexidade, conectividade e problemas de caminhos.
 | 06 | 14/09 | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall.
 |    | 29/09 | __1ª Avaliação__
-| 07 | 13/10 | Caminho (passeio, percurso), ciclo, circuito; [Grafos e circuitos Eulerianos]; Algoritmo de Fleury.
+| 07 | 13/10 | [Conceitos de percurso (passeio), caminho, ciclo (circuito)]; [Grafos e circuitos Eulerianos]; Algoritmo de Fleury.
 | 08 |   | Problema do Carteiro Chinês
 | 09 |   | Grafos e circuitos Hamiltonianos
 | 10 |   | Problema do Caixeiro Viajante
@@ -43,6 +43,7 @@ __Prof. Eduardo Ono__
 [Problema das sete pontes de Königsberg]: ./conteudo-teorico/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
 [Fundamentos da programação em Python]: https://github.com/eduardo-ono/Programacao-em-Python
 [Conceitos básicos e terminologias]: ./conteudo-teorico/03-conceitos-basicos/README.md
+[Conceitos de percurso (passeio), caminho, ciclo (circuito)]: ./conteudo-teorico/05-conexidade/README.md
 [Grafos e circuitos Eulerianos]: ./conteudo-teorico/07-grafos-eulerianos/README.md
 
 &nbsp;
