@@ -7,6 +7,8 @@
 
 ## Tópicos
 
+* ### [Terminologias](./terminologias-grafos-eulerianos.ipynb)
+
 * ### [Conceitos](./conceitos-grafos-eulerianos.ipynb)
 
 * ### Algoritmo de Fleury
