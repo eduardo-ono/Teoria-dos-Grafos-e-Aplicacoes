@@ -1,7 +1,7 @@
 
 <h1 align="center">Introdução</h1>
 
-<h3 align="center">Prof. Eduardo Ono</h3>
+<h4 align="center">Prof. Eduardo Ono</h4>
 
 <br>
 
