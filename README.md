@@ -32,10 +32,10 @@ __Prof. Eduardo Ono__
 | 06 | 14/09 | Caminhos de custo mínimo; Algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall.
 |    | 29/09 | __1ª Avaliação__
 | 07 | 13/10 | [Conceitos de percurso (passeio), caminho, ciclo (circuito)]; [Grafos e circuitos Eulerianos]; Algoritmo de Fleury.
-| 08 | 20/10  | [Grafos Eulerianos]; Problema do Carteiro Chinês.
-| 09 |   | Grafos e circuitos Hamiltonianos
-| 10 |   | Problema do Caixeiro Viajante
-| 11 |   | Planicidade (Grafos planares); Teorema de Kuratowsky
+| 08 | 20/10 | [Grafos e Caminhos Eulerianos]; Problema do Carteiro Chinês.
+| 09 | 27/10 | [Grafos Hamiltonianos]; Problema do Caixeiro Viajante.
+| 10 | 03/11 | Planicidade (Grafos planares);
+| 11 |  | Grafos Planares: Teorema de Kuratowsky
 | 12 |   | Coloração de mapas; Teorema das quatro cores
 | 13 |   | Árvores e árvore geradora mínima
 | 14 |   | Fluxos em Redes
@@ -118,5 +118,6 @@ __Prof. Eduardo Ono__
 | [![img](https://img.youtube.com/vi/-ViPmcdlfbQ/default.jpg)](https://www.youtube.com/watch?v=-ViPmcdlfbQ) | [__Good Will Hunting__](https://www.youtube.com/watch?v=-ViPmcdlfbQ) (1997) / Gênio Indomável<br><sub>(4:16, YouTube, Abr/2020)</sub>
 | [![img](https://img.youtube.com/vi/ttMQECKQ3DQ/default.jpg)](https://www.youtube.com/watch?v=ttMQECKQ3DQ) | <sup>[Andrew Rozario]</sup><br>[__The Right Match: A Short Documentary__](https://www.youtube.com/watch?v=ttMQECKQ3DQ)<br><sub>(21:42, YouTube, Nov/2013)</sub>
 | [![img](https://img.youtube.com/vi/YZk4n6oHLA0/default.jpg)](https://www.youtube.com/watch?v=YZk4n6oHLA0) | <sup>[Cederj : Tec em Sistemas de Computação : UFF]</sup><br>[__Matemática e computação: uma união estável__](https://www.youtube.com/watch?v=YZk4n6oHLA0)<br><sub>(22:39, YouTube, Abr/2018)</sub> |
+| [![img](https://img.youtube.com/vi/Y4iCLRCdklo/default.jpg)](https://www.youtube.com/watch?v=Y4iCLRCdklo) | <sup>[フジテレビ公式]</sup><br>[__SUSPECT X Trailer 【Fuji TV Official】__](https://www.youtube.com/watch?v=Y4iCLRCdklo)<br><sub>(1:30, YouTube, Mar/2013)</sub> | 
 
 &nbsp;
