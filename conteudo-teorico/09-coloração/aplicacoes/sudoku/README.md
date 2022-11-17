@@ -4,6 +4,12 @@
 
 &nbsp;
 
+## Recursos
+
+* https://sudoku.com/pt
+
+&nbsp;
+
 ## Vídeos de Apoio
 
 | Thumb | Descrição | Tópicos Abordados |
