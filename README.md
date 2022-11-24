@@ -34,11 +34,13 @@ __Prof. Eduardo Ono__
 | 07 | 13/10 | [Conceitos de percurso (passeio), caminho, ciclo (circuito)]; [Grafos e circuitos Eulerianos]; Algoritmo de Fleury.
 | 08 | 20/10 | [Grafos e Caminhos Eulerianos]; Problema do Carteiro Chinês.
 | 09 | 27/10 | [Grafos Hamiltonianos]; Problema do Caixeiro Viajante.
-| 10 | 03/11 | Planicidade (Grafos planares);
-| 11 |  | Grafos Planares: Teorema de Kuratowsky
-| 12 |   | Coloração de mapas; Teorema das quatro cores
-| 13 |   | Árvores e árvore geradora mínima
-| 14 |   | Fluxos em Redes
+| 10 | 03/11 | Planaridade (Grafos planares); Coloração; Coloração de mapas.
+| 11 | 10/11 | Coloração: Teorema das quatro cores; Aplicação: Sudoku.
+| 12 | 17/11 | Coloração própria; Número cromático.
+| 13 | 24/11 | Grafos Planares: <del>Teorema de Kuratowsky</del>; Revisão para a prova.
+|    | 01/12 | __2ª Avaliação__
+| 14 |   | Árvores e árvore geradora mínima
+| 15 |   | Fluxos em Redes
 
 [Problema das sete pontes de Königsberg]: ./conteudo-teorico/01-introducao/problema-das-sete-pontes-de-konigsberg.ipynb
 [Fundamentos da programação em Python]: https://github.com/eduardo-ono/Programacao-em-Python
